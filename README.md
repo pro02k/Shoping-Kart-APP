@@ -16,7 +16,7 @@ Sisora is a refined maternity and celebration boutique web app—soft peplums, l
 1. First account created becomes owner (or use email matching `OWNER_EMAIL`, default `owner@sisora.shop`)  
 2. Open **Owner** in the header  
 3. **Products** — add/edit/delete name, price, image URL, category, sold-out  
-4. **UPI QR** — default is `vijayalakshmik1012000@okicici` (Vijayalakshmi Kumar); change anytime in Owner → UPI QR  
+4. **UPI QR** — default is N/A (Vijayalakshmi Kumar); change anytime in Owner → UPI QR  
 5. **Orders** — after customer pays, confirm in your UPI app, then **Mark payment received**
 
 ## Features
